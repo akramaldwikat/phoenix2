@@ -2126,6 +2126,7 @@ footer .footerBottom a:hover {
     font-weight: 600;
 }
 
+.page-menu2 .category ul li a:hover,
 .page-menu2 .category ul li a.active {
     color: var(--secondary-color);
 }
