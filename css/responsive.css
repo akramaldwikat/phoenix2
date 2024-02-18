@@ -563,5 +563,8 @@
         padding: 0;
     }
 
+    .cat-popup .modal-body .details{
+            flex-direction: column;
+    }
 
 }
