@@ -9,7 +9,7 @@ $(".slider #slider").slick({
         {
             breakpoint: 480,
             settings: {
-                dots: true,
+                dots: false,
                 arrows: false
             }
         }
